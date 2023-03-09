@@ -9,6 +9,11 @@ h1 {
   font-size: 30pt;
 }
 
+h3 {
+  color: green;
+  text-align: center;
+  font-family: courier;
+
 p {
   font-family: verdana;
   font-size: 20px;
