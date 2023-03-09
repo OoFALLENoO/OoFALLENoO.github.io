@@ -1,20 +1,21 @@
 body {
-  background-color: lightblue;
+  background-color: black;
 }
 
 h1 {
-  color: black;
+  color: brightgreen;
   text-align: center;
   font-family: cursive;
   font-size: 30pt;
 }
 
 h3 {
-  color: green;
+  color: white;
   text-align: center;
   font-family: courier;
 
 p {
   font-family: verdana;
   font-size: 20px;
+  color: white;
 }
